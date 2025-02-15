@@ -7,7 +7,7 @@ This project extracts text from images using **PaddleOCR**, a powerful and effic
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/iorliamterpase/text_extraction_paddleocr.git
+git clone https://github.com/iorliamterpase/paddleocr_text_extraction.git
 cd text_extraction_paddleocr
 
 ##create and activate an environment
