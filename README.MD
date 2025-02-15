@@ -25,8 +25,11 @@ For GPU: pip install paddlepaddle-gpu
 
 ##USAGE
 run the script
-
 main.py --image path/to/image.jpg
+
+##TESTING
+run the script
+streamlit run app.py
 
 ##NOTE
 make sure images are clear and readable
